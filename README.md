@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stampchain-io/stamps_sdk/main/docs/assets/bitcoinstamps-sdk-github-hero.png" alt="Bitcoin Stamps SDK" width="100%">
+  <img src="https://raw.githubusercontent.com/stampchain-io/stamps_sdk/main/docs/assets/bitcoinstamps-sdk-github-hero.png" alt="Bitcoin Stamps - SDK" width="100%">
 
 ### Bitcoin Stamps - SDK
 #### Immutable digital assets stored in Bitcoin's UTXO set
