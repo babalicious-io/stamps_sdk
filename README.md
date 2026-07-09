@@ -1,4 +1,18 @@
-# Bitcoin Stamps SDK Documentation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stampchain-io/stamps_sdk/main/docs/assets/bitcoinstamps-sdk-github-hero.png" alt="Bitcoin Stamps SDK" width="100%">
+
+### Bitcoin Stamps - SDK
+#### Immutable digital assets stored in Bitcoin's UTXO set
+**CLASSIC / SRC-20 / SRC-721 / SRC-721r / SRC-101 / OLGA** 
+
+&nbsp;
+
+---
+
+</div> 
+&nbsp;
+
+## 📋 Overview
 
 Welcome to the reference guide for building applications on Bitcoin Stamps. This
 documentation aims to provides example code for interacting with the Bitcoin
@@ -13,7 +27,7 @@ This is provided by stampchain.io which is the pioneering Bitcoin Stamps
 website, developed by the creators of Bitcoin Stamps and SRC-20. It serves as
 the primary source of API data and indexing for the Bitcoin Stamps project.
 
-Happy Building!
+**Happy Building!**
 
 ## Table of Contents
 
@@ -32,3 +46,13 @@ more detailed information.
 
 For General STAMPS Specifications see here:
 [https://github.com/mikeinspace/stamps](https://github.com/mikeinspace/stamps)
+
+&nbsp;
+
+---
+
+<div align="center">
+
+Built with Bitcoin 🧡 Permanent by design
+
+</div>
